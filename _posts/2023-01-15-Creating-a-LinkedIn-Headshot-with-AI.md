@@ -39,7 +39,6 @@ Our last tool will come from ["TheLastBen"](https://github.com/TheLastBen/) and 
 9. We now have a hosted interface of [Automatic1111's Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui). At the bottom, a link is displayed with the URL to the interface, click it. Our trained model has been loaded into it(see top left). For me, the model is "HeadshotSession1.ckpt" - this will also reside in your Google Drive and it is ~2GB. See My Drive/Fast-Dreambooth/Sessions. 
 10. In the "txt2img" prompt enter the keyword you used for your photos. For me it's "lanehead". I created the image you see on the top left with "lanehead headshot with a fancy purple shirt, pompadour haircut". You may or may not get the results you want with a simple prompt like this. Experiment around until you get what you want. There are also options to further train the model and refine the parameters in the Automatic1111 interface - if you have some good tips for this please comment below!
 
-
 <h4> Random Tidbits </h4>
 
 * If you're using the free version of Google's Colab environment you <b>will</b> be disconnected at some point. This is why it's important to document our session name. When recreating a session, we must simply rerun the first two steps in the Jupyter Notebook and then enter the session name in the "Previous_Session" section of "Test The Trained Model". If you forgot the name of your session check your Google Drive: My Drive/Fast-Dreambooth/Sessions.
