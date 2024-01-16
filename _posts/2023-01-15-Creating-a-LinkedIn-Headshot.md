@@ -2,7 +2,7 @@
 title: "Creating a LinkedIn Headshot"
 date: 2023-01-15 
 categories: [Practical AI]
-tags: [text-to-image, stablediffusion, training, finetuning, model]
+tags: [text-to-image, stablediffusion, training, finetuning, models]
 ---
 
 Our Goal: Create an AI generated LinkedIn Headshot that makes our lil heart sing.
