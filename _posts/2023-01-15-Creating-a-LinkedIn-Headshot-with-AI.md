@@ -42,6 +42,6 @@ We will also celebrate the work of the ["TheLastBen"](https://github.com/TheLast
 <h4> Random Tidbits </h4>
 
 * If you're using the free version of Google's Colab environment you <b>will</b> be disconnected at some point. This is why it's important to document our session name. When recreating a session, we must simply rerun the first two steps in the Jupyter Notebook and then enter the session name in the "Previous_Session" section of "Test The Trained Model". If you forgot the name of your session check your Google Drive: gdrive/MyDrive/Fast-Dreambooth/Sessions.
-* If you click "Show code", and you want to hide the code, you can double click in the section to the right of the code.
-* The session sometimes loses track of your model. If it prompts you, you can find the reference to it in your Google Drive. You can find the path from the "Files" interface on the left: gdrive/MyDrive/Fast-Dreambooth/Sessions/SessionName/MyModel.ckpt. Copy the path and paste it into the prompt.
+* The session sometimes loses track of your model. If it prompts you, you can find the reference to it in your Google Drive. You can find the path from the "Files" interface on the left: gdrive/MyDrive/Fast-Dreambooth/Sessions/SessionName/MyModel.ckpt. Copy the path and paste it into the prompt(and hit enter).
 * Tired of getting disconnected: You can download your model and run [Automatic1111's Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) locally.
+* If you click "Show code", and you want to hide the code, you can double click in the section to the right of the code.
