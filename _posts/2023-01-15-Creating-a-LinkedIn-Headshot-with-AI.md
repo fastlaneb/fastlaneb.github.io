@@ -37,7 +37,7 @@ We will also celebrate the work of the ["TheLastBen"](https://github.com/TheLast
 ```
 <b>~5 minutes</b>
 9. We now have a hosted interface of [Automatic1111's Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui). At the bottom, a link is displayed with the URL to the interface, click it. Our trained model has been loaded into it(see top left). For me, the model is "HeadshotSession1.ckpt" - this will also reside in your Google Drive and it is ~2GB. See gdrive/MyDrive/Fast-Dreambooth/Sessions. 
-10. In the "txt2img" prompt enter the keyword you used for your photos. For me it's "lanehead". I created the image you see on the top left with "professional lanehead headshot with a fancy purple shirt, pompadour haircut, energetic smile". You may or may not get the results you want with a simple prompt like this. Experiment around until you get what you want. There are also options to further train the model and refine the parameters in the Automatic1111 interface - if you have some good tips for this please share below!
+10. In the "txt2img" prompt enter the keyword you used for your photos. For me it's "lanehead". I created the image you see on the top left with "lanehead headshot wearing a fancy purple shirt, pompadour haircut, energetic smile". You may or may not get the results you want with a simple prompt like this. Experiment around until you get what you want. There are also options to further train the model and refine the parameters in the Automatic1111 interface - if you have some good tips for this please share below!
 
 <h4> Random Tidbits </h4>
 
@@ -45,3 +45,4 @@ We will also celebrate the work of the ["TheLastBen"](https://github.com/TheLast
 * The session sometimes loses track of your model. If it prompts you, you can find the reference to it in your Google Drive. You can find the path from the "Files" interface on the left: gdrive/MyDrive/Fast-Dreambooth/Sessions/SessionName/MyModel.ckpt. Copy the path and paste it into the prompt(and hit enter).
 * Tired of getting disconnected: You can download your model and run [Automatic1111's Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) locally.
 * If you click "Show code", and you want to hide the code, you can double click in the section to the right of the code.
+* If something isn't coming out right, i.e. teeth look like a snarling wolf, try adding something to the negative prompt, i.e. "bad teeth".
