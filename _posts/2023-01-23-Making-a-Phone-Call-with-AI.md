@@ -2,7 +2,7 @@
 title: "Making a Phone Call with AI"
 date: 2023-01-23 
 categories: [Practical AI]
-tags: [text-to-speech, prompting, huggingface,bland.ai]
+tags: [text-to-speech, prompting, huggingface, bland.ai, models]
 ---
 
 <h3><b>Our Goal:</b> Use the power of AI to make a phone call!</h3>
