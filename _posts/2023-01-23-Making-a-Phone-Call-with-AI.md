@@ -11,7 +11,7 @@ tags: [text-to-speech, prompting, huggingface,bland.ai]
 My friend recently contacted me requesting support for a petition preventing the reduction of pickleball courts at the Presidio in San Francisco. I'm a pickleball player myself, so I gladly obliged. After agreeing, he informed me that the "support" involved calling into a live city council hearing and giving a 2 minute speech on why removing these courts would be pyschologically destructive. Just wow!
 
 <h4>Plan</h4>
-The window to call the council happened to overlap with a meeting for my day job. I couldn't call in myself, so I needed another plan. I remembered an oh so funny experience the creators of my favorite podcast staged. They used an AI tool to call into a pet shop, an attempt to schedule a pet grooming for their pig: [EP46: Prank Calls with AI, Rabit r1, GPT Store Released, ChatGPT Teams & LUMA Genie](https://www.thisdayinai.com/episodes/ep46-prank-calls-with-ai-rabit-r1-gpt-store-released-chatgpt-teams-luma-genie) The tool: [Bland.ai](https://www.bland.ai)
+The window to call the council happened to overlap with a meeting for my day job. I couldn't call in myself, so I needed another plan. I remembered an oh so funny experience the creators of my favorite podcast staged. They used an AI tool to call into a pet shop and attempt to schedule a pet grooming for their pig: [EP46: Prank Calls with AI, Rabit r1, GPT Store Released, ChatGPT Teams & LUMA Genie](https://www.thisdayinai.com/episodes/ep46-prank-calls-with-ai-rabit-r1-gpt-store-released-chatgpt-teams-luma-genie) The tool: [Bland.ai](https://www.bland.ai)
 
 <h4>Execution</h4>
 1. Create an account on [Bland.AI](https://www.bland.ai): don't worry, they give you free credits to experiment with.
