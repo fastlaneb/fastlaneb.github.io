@@ -2,16 +2,16 @@
 title: "Creating a LinkedIn Headshot with AI"
 date: 2023-01-15 
 categories: [Practical AI]
-tags: [text-to-image, stablediffusion, training, finetuning, models, prompting]
+tags: [text-to-image, stablediffusion, training, finetuning, models, prompting, automatic1111]
 ---
 
-<h3>Our Goal: Create an AI generated LinkedIn Headshot that makes our lil heart sing.</h3>
+<h3><b>Our Goal:</b> Create an AI generated LinkedIn Headshot that makes our lil heart sing.</h3>
 
 To accomplish this goal, we want to use an AI "Text-to-Image" model. You may have heard of the OpenAI DALL-E models. We're going to use the most popular Open Source Model, Stable Diffusion. 
 
 To train our model we are going to use Google's Colaboratory platform: <https://colab.research.google.com/>
 
-We will also celebrate the work of the ["TheLastBen"](https://github.com/TheLastBen/) and use publicly available Jupyter notebook. Let's ride:
+We will also celebrate the work of the ["TheLastBen"](https://github.com/TheLastBen/) and use his publicly available Jupyter notebook. Let's ride:
 
 <h4> Preparation </h4>
 1. Create a Google account if you don't have one. Login.
