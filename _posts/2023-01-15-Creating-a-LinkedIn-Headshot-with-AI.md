@@ -45,4 +45,4 @@ We will also celebrate the work of the ["TheLastBen"](https://github.com/TheLast
 * The session sometimes loses track of your model. If it prompts you, you can find the reference to it in your Google Drive. You can find the path from the "Files" interface on the left: gdrive/MyDrive/Fast-Dreambooth/Sessions/SessionName/MyModel.ckpt. Copy the path and paste it into the prompt(and hit enter).
 * Tired of getting disconnected: You can download your model and run [Automatic1111's Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) locally.
 * If you click "Show code", and you want to hide the code, you can double click in the section to the right of the code.
-* If something isn't coming out right, i.e. teeth look like a snarling wolf, try adding something to the negative prompt, i.e. "bad teeth".
+* If something isn't coming out right, i.e. teeth look like a snarling wolf, try adding something to the negative prompt, i.e. "bad features".
