@@ -1,6 +1,6 @@
 ---
 title: "Creating a LinkedIn Headshot with AI"
-date: 2023-01-15 
+date: 2024-01-15 
 categories: [Practical AI]
 tags: [text-to-image, stablediffusion, training, finetuning, models, prompting, automatic1111]
 ---
